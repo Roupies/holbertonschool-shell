@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chemin absolu du répertoire actuel : $(pwd)"
+pwd
